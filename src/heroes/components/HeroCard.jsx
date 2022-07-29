@@ -10,7 +10,7 @@ export const HeroCard = ({
 }) => {
   return (
     <div className="col">
-      <div className="card m-1">
+      <div className="card">
         <div className="row no-gutters animate__animated animate__zoomIn animate__faster">
           <div className="col-4 ">
             <img
